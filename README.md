@@ -133,7 +133,7 @@ User: How do I know if I have thyroid?
 MedBot: hi you can try this one. its a thyroid hormone but it is a hormone that is produced by your thyroid gland that is called your thyroid gland and is called your thyroid hormone. this is the way in which you get your body's natural hormone hormones that are released through your body to help your body maintain normal function and function. if your thyroid hormone is in the wrong place try to get the thyroid hormone removed to normal and it will not work. the reason for this is because of the thyroid hormone deficiency that can happen due to the thyroid hormone deficiency. the problem with this is that it is difficult for you to get enough thyroid hormone for your body to maintain proper function. so it is best to see your doctor.
 ~~~
 
-While the bot is present on discord as a concise chatbot, I am still researching and improving the algorithm to make it make more sense in it's replies. The files **final.py** and **temp.py** are works in progress regarding the same.
+While the bot is present on discord as a concise chatbot, I am still researching and improving the algorithm to make it make more sense in it's replies. The file **final.py** is a work in progress regarding the same.
 
 ![chat2](assets/ss2.png)
 
